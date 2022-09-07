@@ -1,18 +1,18 @@
 {
-  "name": "mmfsdk",
+  "name": "@aprotocol/mmfsdk",
   "license": "MIT",
   "version": "1.0.0",
   "description": "🛠 An SDK for building applications on top of mmf Finance.",
   "main": "dist/index.js",
   "module": "dist/sdk.esm.js",
   "typings": "dist/index.d.ts",
-  "private": true,
+  "private": false,
   "files": [
     "dist"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlphaProtocol2022/MMF-Finance-SDK.git"
+    "url": "git+https://github.com/AlphaProtocol2022/Mmf-sdk.git"
   },
   "keywords": [
     "mmf",
@@ -64,8 +64,8 @@
     "singleQuote": true
   },
   "bugs": {
-    "url": "https://github.com/AlphaProtocol2022/MMF-Finance-SDK/issues"
+    "url": "https://github.com/AlphaProtocol2022/Mmf-sdk.git/issues"
   },
-  "homepage": "https://github.com/AlphaProtocol2022/MMF-Finance-SDK#readme",
+  "homepage": "https://github.com/AlphaProtocol2022/Mmf-sdk.git#readme",
   "author": "aprotocol"
 }
