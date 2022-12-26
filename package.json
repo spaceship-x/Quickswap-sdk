@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlphaProtocol2022/Mmf-sdk.git"
+    "url": "git+https://github.com/spaceship-x/Quickswap-sdk.git"
   },
   "keywords": [
     "mmf",
@@ -64,8 +64,8 @@
     "singleQuote": true
   },
   "bugs": {
-    "url": "https://github.com/AlphaProtocol2022/Mmf-sdk.git/issues"
+    "url": "https://github.com/spaceship-x/Quickswap-sdk.git/issues"
   },
-  "homepage": "https://github.com/AlphaProtocol2022/Mmf-sdk.git#readme",
+  "homepage": "https://github.com/spaceship-x/Quickswap-sdk.git#readme",
   "author": "aprotocol"
 }
