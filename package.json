@@ -1,8 +1,8 @@
 {
-  "name": "@aprotocol/mmfsdk",
+  "name": "@aprotocol/quickswap-sdk",
   "license": "MIT",
   "version": "1.0.0",
-  "description": "🛠 An SDK for building applications on top of mmf Finance.",
+  "description": "🛠 An SDK for building applications on top of Quickswap on POlygon",
   "main": "dist/index.js",
   "module": "dist/sdk.esm.js",
   "typings": "dist/index.d.ts",
